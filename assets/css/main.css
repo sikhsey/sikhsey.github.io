@@ -82,9 +82,9 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	margin: 100;
+	margin: 50;
 	padding: 0;
-	border: 0;
+	border: 50;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
